@@ -21,6 +21,7 @@ A következő műveleteket használjuk az összetett kijelentések létrehozás�
 - Mást nem tekintünk **kijelentésnek**.
 
 A fentieket röviden így szokták összefoglalni: 
+
 $$ A ::= \quad p \quad |\quad  \lnot A \quad |\quad A\land B \quad |\quad A\lor B \quad |\quad A\to B\quad |\quad A\leftrightarrow B $$
 
 Ezt az utóbbi rövidítést egyébként Backus-Naur formának (BNF) nevezik.

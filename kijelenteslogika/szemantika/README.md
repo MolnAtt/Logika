@@ -40,15 +40,19 @@ Ezáltal még nem határoztuk meg, hogy mit jelent egy kijelentés igazságért�
     Más megfogalmazásban: Helyes egy következtetés, ha nincs olyan értékelés, amely a premisszáit igazzá, a konklúzióját viszont hamissá tenné. 
 
     Két $A$ és $B$ formula esetén ezt a következőképpen jelöljük:
+    
     $$ A\Longrightarrow B$$
     De használatos a következő jelölés is:
+    
     $$\begin{array}{r}A\\ \hline \therefore B\end{array}$$
     Ebben az esetben tehát $A$ a premissza és $B$ a konklúzió.
 
     Több formula esetén, azaz ha pl. az $A$, $B$ és $C$ premisszákból a $D$ következtetéséről beszélünk:
+    
     $$ \{A,B,C\}\Longrightarrow D$$
     Azaz a premisszák formula**halmazából** következik a $D$. 
     De hosszú és összetett formulák esetén könnyebb írni és áttekinteni a következő jelölést:
+    
     $$\begin{array}{r}A\\ B\\ C\\ \hline \therefore D\end{array}$$
 
 - **Definíció (Ekvivalencia):** Két formulát pontosan akkor mondunk ekvivalensnek, ha igazságértékük minden értékelés szerint megegyezik.
