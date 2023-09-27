@@ -42,14 +42,17 @@ Ezáltal még nem határoztuk meg, hogy mit jelent egy kijelentés igazságért�
     Két $A$ és $B$ formula esetén ezt a következőképpen jelöljük:
     
     $$ A\Longrightarrow B$$
+
     De használatos a következő jelölés is:
     
     $$\begin{array}{r}A\\ \hline \therefore B\end{array}$$
+
     Ebben az esetben tehát $A$ a premissza és $B$ a konklúzió.
 
     Több formula esetén, azaz ha pl. az $A$, $B$ és $C$ premisszákból a $D$ következtetéséről beszélünk:
     
     $$ \{A,B,C\}\Longrightarrow D$$
+    
     Azaz a premisszák formula**halmazából** következik a $D$. 
     De hosszú és összetett formulák esetén könnyebb írni és áttekinteni a következő jelölést:
     
