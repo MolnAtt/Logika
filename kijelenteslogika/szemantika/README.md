@@ -39,9 +39,7 @@ Ezáltal még nem határoztuk meg, hogy mit jelent egy kijelentés igazságért�
 
     Más megfogalmazásban: Helyes egy következtetés, ha nincs olyan értékelés, amely a premisszáit igazzá, a konklúzióját viszont hamissá tenné. 
 
-    Két $A$ és $B$ formula esetén ezt a következőképpen jelöljük:
-    
-    $ A\to B $
+    Két $A$ és $B$ formula esetén ezt a következőképpen jelöljük: $A\to B$
 
     De használatos a következő jelölés is:
     
