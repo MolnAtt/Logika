@@ -41,7 +41,7 @@ Ezáltal még nem határoztuk meg, hogy mit jelent egy kijelentés igazságért�
 
     Két $A$ és $B$ formula esetén ezt a következőképpen jelöljük:
     
-    $ A\Longrightarrow B$
+    $ A\Rightarrow B$
 
     De használatos a következő jelölés is:
     
